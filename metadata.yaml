@@ -1,0 +1,33 @@
+_repo: As-rela--es-luso-brasileiras--13-a-immigra--o-e-a--desnacionaliza--o--do-Brasil_30424
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barbosa, José
+    aliases:
+    - Barbosa, Joze
+    - Barbosa, Jose
+    - Barbosa, Jozé
+    birthdate: 1869
+    deathdate: 1923
+    gutenberg_agent_id: '34602'
+    url: http://www.gutenberg.org/2009/agents/34602
+description: ''
+gutenberg_issued: '2009-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30424'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brazil -- Relations -- Portugal'
+- !lcsh 'Portugal -- Relations -- Brazil'
+- !lcc 'DP'
+- !lcc 'F2501'
+- !lcsh 'Brazil -- Emigration and immigration'
+title: "As relações luso-brasileiras\r\na immigração e a «desnacionalização» do Brasil"
+url: http://www.gutenberg.org/ebooks/30424
