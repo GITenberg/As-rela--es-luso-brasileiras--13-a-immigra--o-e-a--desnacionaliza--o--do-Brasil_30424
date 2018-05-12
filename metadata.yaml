@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '34602'
     url: http://www.gutenberg.org/2009/agents/34602
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30424#As-rela--es-luso-brasileiras--13-a-immigra--o-e-a--desnacionaliza--o--do-Brasil
 gutenberg_issued: '2009-11-08'
 gutenberg_type: Text
 identifiers:
